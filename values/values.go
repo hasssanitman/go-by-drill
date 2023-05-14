@@ -21,7 +21,7 @@ func main() {
 	fmt.Println(!true)
 }
 
-// $ go run main.go
+// $ go run values/values.go
 // go by DRILLL!
 // 100 + 200 =  300
 // 7.0/ 3.0 =  2.3333333333333335
