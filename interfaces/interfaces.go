@@ -58,6 +58,10 @@ func main() {
 	// arguments to measure.
 	measure(r)
 	measure(c)
+
+	// My test
+	var ii geometry = r
+	fmt.Println("INTERFACE ", ii.area())
 }
 
 // $ go run interfaces/interfaces.go
@@ -67,3 +71,4 @@ func main() {
 // &{5}
 // 78.53981633974483
 // 31.41592653589793
+// INTERFACE  12
