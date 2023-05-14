@@ -44,3 +44,7 @@ func main() {
 // zeroval:  1
 // zeroptr:  0
 // 0xc0000b4000
+
+// zeroval doesn’t change the i in main, but zeroptr does
+// because it has a reference to the memory address for that
+// variable.
