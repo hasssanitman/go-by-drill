@@ -1,6 +1,6 @@
 // Our first program will print the classic “hello world” message. Here’s the full source code.
 
-// To run the program, put the code in hello-world.go and use go run.
+// To run the program, put the code in hello_world.go and use go run.
 
 // Sometimes we’ll want to build our programs into binaries. We can do this using go build.
 
@@ -18,12 +18,12 @@ func main() {
 
 // HOW TO RUN/COMPILE
 
-// $ go run hello-world.go
+// $ go run hello_world/hello_world.go
 // hello world
 
-// $ go build hello-world.go
+// $ go build hello_world/hello_world.go
 // $ ls
-// hello-world    hello-world.go
+// hello_world    hello_world.go
 
-// $ ./hello-world
+// $ ./hello_world
 // hello world
