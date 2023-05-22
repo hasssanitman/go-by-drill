@@ -74,3 +74,7 @@ func main() {
 	lst2.Push("Arian")
 	fmt.Println("My Family: ", lst2.getAll())
 }
+
+// Keys:  [1 2 4]
+// list:  [10 13 23]
+// My Family:  [Hassan Zahra Arian]
