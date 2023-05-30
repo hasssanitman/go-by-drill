@@ -71,3 +71,6 @@ func main() {
 // some
 // writes
 // buffered
+
+// Next we’ll look at applying some of the file I/O ideas we’ve just
+// seen to the stdin and stdout streams.
